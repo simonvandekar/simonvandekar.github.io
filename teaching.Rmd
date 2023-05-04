@@ -1,0 +1,24 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Full Courses
+
+
+*Fall 2023:* Principles of Modern Biostatistics, [BIOS6311](http://simonvandekar.github.io/bios6311)
+
+*Fall 2022-2020:* Principles of Modern Biostatistics, BIOS6311
+
+
+## Short Courses
+
+*Summer 2023:* Internship for Underrepresented Undergraduates in Biostatistics [short course](http://simonvandekar.github.io/internshipShortCourse/)
+
+*Summer 2022:* Internship for Underrepresented Undergraduates in Biostatistics
+
+
+

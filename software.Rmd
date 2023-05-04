@@ -1,0 +1,28 @@
+---
+title: Software
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+# Under construction
+
+# CRAN
+
+
+  
+# Bioconductor
+
+
+# GitHub 
+
+
+
+
+
+
