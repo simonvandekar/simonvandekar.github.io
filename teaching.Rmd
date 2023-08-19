@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching & Mentorship"
 output: html_document
 ---
 
@@ -20,5 +20,27 @@ output: html_document
 
 *Summer 2022:* Internship for Underrepresented Undergraduates in Biostatistics
 
+
+
+## Student mentorship
+
+*Dissertation Advisor*
+
+[Coleman Harris](), PhD - Graduated 2022. Employed at Nashville Biosciences.
+
+[Kaidi Kang]() - PhD
+
+[Jiangmei (Ruby) Xiong]() - PhD
+
+[Kenneth Liao]() - MS
+
+
+*Research Assistantship*
+
+[Megan Jones]() - PhD
+
+[Xinyu]() - PhD
+
+For a complete list of academic mentorship. Please see my ![CV](Downloads/cv_Vandekar-Simon.pdf).
 
 

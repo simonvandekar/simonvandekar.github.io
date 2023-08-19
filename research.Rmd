@@ -7,20 +7,9 @@ output: html_document
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
+The content in this section just includes what I'm motivated to post. For an up-to-date list of my latest publications, please see [my Google Scholar page](https://scholar.google.com/citations?user=a3FPU6cAAAAJ&hl=en).
+
 # Effect sizes
 
 * I am involved in the development and application of the robust effect size index.
-* An [interactive version](statimagcoll.github.io/EST-2020/) of a figure from our [2020 OHBM paper](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25374) comparing effect size thresholding to $p$-value thresholding for neuroimaging inference.
-
-# Neuroimaging
-
-## pbj software
-
-* The `pbj` software package is designed to perform robust group-level neuroimage analysis in `R`.
-
-# Multiplexed immunofluorescence imaging
-
-
-# Publications
-
-For a current list of my publications, please see [my Google Scholar page](https://scholar.google.com/citations?user=a3FPU6cAAAAJ&hl=en).
+* The [interactive version](statimagcoll.github.io/EST-2020/) of a figure from our [2020 OHBM paper](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25374) comparing effect size thresholding to $p$-value thresholding for neuroimaging inference.
