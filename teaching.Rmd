@@ -39,7 +39,7 @@ output: html_document
 
 [Megan Jones]() - PhD
 
-[Xinyu]() - PhD
+[Xinyu Zhang]() - PhD
 
 For a complete list of academic mentorship. Please see my ![CV](Downloads/cv_Vandekar-Simon.pdf).
 
