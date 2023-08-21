@@ -9,7 +9,7 @@ output: html_document
 ## Full Courses
 
 
-*Fall 2023:* Principles of Modern Biostatistics, [BIOS6311](http://simonvandekar.github.io/bios6311)
+*Fall 2023:* Principles of Modern Biostatistics, [BIOS6311](http://simonvandekar.github.io/BIOS6311)
 
 *Fall 2022-2020:* Principles of Modern Biostatistics, BIOS6311
 
@@ -26,21 +26,22 @@ output: html_document
 
 *Dissertation Advisor*
 
-[Coleman Harris](), PhD - Graduated 2022. Employed at Nashville Biosciences.
+[Coleman Harris](https://colemanrharris.me/), PhD - Graduated 2022. Employed at Nashville Biosciences.
 
-[Kaidi Kang]() - PhD
+[Kaidi Kang](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/kaidi-kang) - PhD
 
-[Jiangmei (Ruby) Xiong]() - PhD
+[Jiangmei (Ruby) Xiong](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/jiangmei-xiong/) - PhD
 
-[Kenneth Liao]() - MS
+
+[Megan Jones](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-taylor/) - PhD
+
+[Kenneth Liao](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/kenneth-liao/) - MS
 
 
 *Research Assistantship*
 
-[Megan Jones]() - PhD
-
 [Xinyu Zhang]() - PhD
 
-For a complete list of academic mentorship. Please see my ![CV](Downloads/cv_Vandekar-Simon.pdf).
+For a complete list of academic mentorship. Please see my [CV](Downloads/cv_Vandekar-Simon.pdf).
 
 
