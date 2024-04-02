@@ -1,5 +1,13 @@
 ---
 title: "Simon Vandekar"
+subtitle:
+  Associate Professor<br>
+  Department of Biostatistic<br>
+  Vanderbilt University Medical Center<br>
+  simon.vandekar@vumc.org <br><br>
+  Director of Graduate Recruitment<br>
+  Biostatistics Graduate Program<br>
+  Vanderbilt University
 about:
   template: trestles
   image: images/simon.jpeg
@@ -10,20 +18,4 @@ about:
 
 <!-- <br><img src="images/simon.jpeg" alt="Simon" style="width:50%"><br> -->
 
-I am an Associate Professor in the [Department of Biostatistics](https://www.vumc.org/biostatistics) at Vanderbilt University Medical Center and Director of Graduate Recruitment for the [Vanderbilt University Biostatistics Graduate Program](https://www.vanderbilt.edu/biostatistics-graduate/).
-My work develops statistical inference methods and software that can be used for scientific insight in medical imaging, primarily motivated by magnetic resonance imaging studies in humans.
-`R` packages produced by my research group are released and maintained through the [Statistical Imaging Collective](https://github.com/statimagcoll) on Github.
-
-
-
-#### Contact Information
-
-Simon Vandekar  
-Associate Professor   
-Department of Biostatistics  
-Vanderbilt University Medical Center  
-[simon.vandekar@vumc.org](mailto:simon.vandekar@vumc.org)
-
-Director of Graduate Recruitment  
-Biostatistics Graduate Program  
-Vanderbilt University
+I am an Associate Professor in the [Department of Biostatistics](https://www.vumc.org/biostatistics) at Vanderbilt University Medical Center and Director of Graduate Recruitment for the [Vanderbilt University Biostatistics Graduate Program](https://www.vanderbilt.edu/biostatistics-graduate/). My work develops statistical inference methods and software that can be used for scientific insight in medical imaging, primarily motivated by magnetic resonance imaging studies in humans. `R` packages produced by my research group are released and maintained through the [Statistical Imaging Collective](https://github.com/statimagcoll) on Github.
