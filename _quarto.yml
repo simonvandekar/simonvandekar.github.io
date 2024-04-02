@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: Simon Vandekar
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - software.qmd
+      - href: teaching.qmd
+        text: "Teaching & Mentorship"
+    right:
+      - text: CV
+        href: Downloads/cv_Vandekar-Simon.pdf
+      - icon: github
+        href: https://github.com/statimagcoll
+      - text: "{{< iconify academicons google-scholar >}}"
+        href: https://scholar.google.com/citations?user=a3FPU6cAAAAJ&hl=en
+      - icon: twitter
+        href: https://twitter.com/vandyatvandy
+      - text: "{{< iconify fa6-brands linkedin >}}"
+        href: 'https://www.linkedin.com/in/simon-vandekar-26854914/'
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+

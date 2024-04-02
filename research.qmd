@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+
+My work develops statistical inference methods and software that can be used for scientific insight in medical imaging, primarily motivated by magnetic resonance imaging studies in humans. In collaborative research, I utilize statistical tools such as generalized additive models, random effects models, machine learning, semiparametric methods, and estimating equations. My statistical research focuses on robust inference procedures for high-dimensional imaging data using semiparametric methods. Lately, I am particularly interested in the use of robust effect sizes, semiparametric theory, and replicability in medical imaging.
+
+The research content below might not be up-to-date. For my latest interests, please see [my Google Scholar page](https://scholar.google.com/citations?user=a3FPU6cAAAAJ&hl=en).
+
+# Effect sizes in neuroimaging
+
+* I am involved in the development and application of the robust effect size index (RESI).
+* [Kaidi Kang](https://kaidik.github.io/)'s paper defined a cross sectional RESI (CS-RESI) for longitudinal models that makes effect sizes comparable across cross-sectional and longitudinal studies. His work investigated ways to increase effect sizes in BWAS studies. The [preprint](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2) is on Biorxiv.
+* The [interactive version](statimagcoll.github.io/EST-2020/) of a figure from our [2020 OHBM paper](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25374) comparing effect size thresholding to $p$-value thresholding for neuroimaging inference.
+* [Megan Jones](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-taylor/) wrote the sofware and paper for the RESI R package available on CRAN and in press with Journal of Statistical Software. The [preprint](https://arxiv.org/abs/2302.12345) is available on ArXiv.
+
+
+# Multiplexed imaging
+
+* [Ruby Xiong](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/jiangmei-xiong/) developed a semi-automated approach for single-cell marker gating/phenotyping for multiplexed imaging data. The [preprint](https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1) is on Biorxiv.
+* [Harsimran Kaur](https://medschool.vanderbilt.edu/cdb/person/harsimran-kaur/) developed a tool to define consensus tissue domains across a large number of slides. The [preprint](https://www.biorxiv.org/content/10.1101/2023.02.02.526900v1) is on Biorxiv.
+
