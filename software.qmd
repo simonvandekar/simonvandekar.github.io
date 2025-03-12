@@ -8,7 +8,7 @@ The `GammaGateR` `R` Package was developed by [Ruby Xiong](https://www.vanderbil
 
 # MILWRM
 
-The MILWRM Python package (developed and maintained by [Harsimran Kaur](https://medschool.vanderbilt.edu/cdb/person/harsimran-kaur/)) is a highly scalable tool for consensus tissue domain detection that can be applied across a large number of whole slide multiplexed immunofluorescence images ([Kaur et al. 2024](https://www.biorxiv.org/content/10.1101/2023.02.02.526900v1)). It can be installed directly from [pyPI](https://pypi.org/%20project/MILWRM/). The source code for the package can be found on [github](https:%20//github.com/Ken-Lau-Lab/MILWRM).
+The MILWRM Python package (developed and maintained by [Harsimran Kaur](https://medschool.vanderbilt.edu/cdb/person/harsimran-kaur/)) is a highly scalable tool for consensus tissue domain detection that can be applied across a large number of whole slide multiplexed immunofluorescence images ([Kaur et al. 2024](https://www.nature.com/articles/s42003-024-06281-8)). It can be installed directly from [pyPI](https://pypi.org/project/MILWRM/). The source code for the package can be found on [github](https://github.com/Ken-Lau-Lab/MILWRM).
 
 # mxnorm
 
