@@ -2,15 +2,13 @@
 title: "Teaching and Mentorship"
 ---
 
-
 Collaborating with students is one of the greatest pleasures of the job. Please reach out if you are interested in working together.
-
 
 ## Full Courses
 
+*Fall 2025:* Statistical Methods in Neuroimaging, [BIOS8377](https://simonvandekar.github.io/SMN/)
 
-*Fall 2023-2020:* Principles of Modern Biostatistics,  [BIOS6311](http://simonvandekar.github.io/BIOS6311)
-
+*Fall 2023-2020:* Principles of Modern Biostatistics, [BIOS6311](http://simonvandekar.github.io/BIOS6311)
 
 ## Short Courses
 
@@ -20,29 +18,34 @@ Collaborating with students is one of the greatest pleasures of the job. Please 
 
 *Summer 2022:* Internship for Underrepresented Undergraduates in Biostatistics
 
-
 ## Student mentorship
 
 *Thesis Advisor*
-[Megan Jones](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-taylor/) - PhD
 
-[Kaidi Kang](https://kaidik.github.io/) - PhD
+[Megan Jones](https://www.vumc.org/biostatistics/person/megan-taylor-jones) - PhD
 
-[Kenneth Liao](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/kenneth-liao/) - MS
+[Xinyu Zhang](https://www.vumc.org/biostatistics/person/xinyu-zhang) - PhD
 
-[Jiangmei (Ruby) Xiong](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/jiangmei-xiong/) - PhD
+[Haozheng Xu](https://www.vumc.org/biostatistics/person/haozheng-xu) - PhD
 
+*Undergraduate*
 
-
-
+[Ishaan Gadiyar](https://www.linkedin.com/in/ishaan-gadiyar/)
 
 
 *Research Assistantship*
-
-[Xinyu Zhang](https://www.vumc.org/biostatistics/person/xinyu-zhang) - PhD
 
 For a complete list of academic mentorship. Please see my [CV](Downloads/cv_Vandekar-Simon.pdf).
 
 ### Alumni
 
+[Jiangmei (Ruby) Xiong](https://www.vumc.org/biostatistics/person/jiangmei-ruby-xiong), PhD - Graduated 2025.
+
+[Gina Yu](https://www.linkedin.com/in/gina-yu-175927217/), BA - Graduated 2025. Employed at University of Pennsylvania, Department of Biostatistics, Epidemiology and Informatics
+
+[Kaidi Kang](https://kaidik.github.io/), PhD - Graduated 2025. Employed at Wake Forest University School of Medicine
+
+[Kenneth Liao](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/kenneth-liao/), MS - Graduated 2024. Employed at University of Minnesota
+
 [Coleman Harris](https://colemanrharris.me/), PhD - Graduated 2022. Employed at Nashville Biosciences.
+

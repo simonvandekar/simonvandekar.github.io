@@ -1,5 +1,5 @@
 ---
-title: "Statistical software"
+title: "Statistical Software"
 ---
 
 # GammaGateR
