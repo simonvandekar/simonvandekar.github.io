@@ -2,7 +2,7 @@
 title: "Simon Vandekar"
 subtitle:
   Associate Professor<br>
-  Department of Biostatistic<br>
+  Department of Biostatistics<br>
   Vanderbilt University Medical Center<br>
   simon.vandekar@vumc.org <br><br>
   Director of Graduate Recruitment<br>
