@@ -13,6 +13,8 @@ website:
       - software.qmd
       - href: teaching.qmd
         text: "Teaching & Mentorship"
+      - href: manuscript-review-instructions.md
+        text: "Review Instructions"
     right:
       - text: CV
         href: Downloads/cv_Vandekar-Simon.pdf
