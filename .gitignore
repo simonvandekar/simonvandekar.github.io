@@ -40,7 +40,6 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
 
 # translation temp files
 po/*~
@@ -49,3 +48,5 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+**/*.quarto_ipynb
